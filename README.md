@@ -63,8 +63,6 @@ Coming soon...
 </p>
 
 <p align="center">
-  <img src="docs/images/IMG_4095.PNG" width="260">
+  <img src="docs/images/IMG_4095.PNG" width="260" alt="AI Chat">
 </p>
-
-![AI Chat](docs/images/IMG_4095.PNG)
 Copyright © 2026 AI Ledger
