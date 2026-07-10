@@ -40,57 +40,31 @@ Coming soon...
 ## License
 ---
 
-# 📱 App Screenshots
+## 📱 App Screenshots
 
-## Login
+<p align="center">
+  <img src="docs/images/IMG_4086.PNG" width="260">
+  <img src="docs/images/IMG_4087.PNG" width="260">
+</p>
 
-![Login](docs/images/IMG_4086.PNG)
+<p align="center">
+  <img src="docs/images/IMG_4088.PNG" width="260">
+  <img src="docs/images/IMG_4089.PNG" width="260">
+</p>
 
----
+<p align="center">
+  <img src="docs/images/IMG_4090.PNG" width="260">
+  <img src="docs/images/IMG_4091.PNG" width="260">
+</p>
 
-## Dashboard
+<p align="center">
+  <img src="docs/images/IMG_4092.PNG" width="260">
+  <img src="docs/images/IMG_4094.PNG" width="260">
+</p>
 
-![Dashboard](docs/images/IMG_4087.PNG)
-
----
-
-## Settings
-
-![Settings](docs/images/IMG_4088.PNG)
-
----
-
-## Membership
-
-![Membership](docs/images/IMG_4089.PNG)
-
----
-
-## Batch OCR
-
-![Batch OCR](docs/images/IMG_4090.PNG)
-
----
-
-## Expense OCR
-
-![Expense OCR](docs/images/IMG_4091.PNG)
-
----
-
-## Income OCR
-
-![Income OCR](docs/images/IMG_4092.PNG)
-
----
-
-## AI Analysis
-
-![AI Analysis](docs/images/IMG_4094.PNG)
-
----
-
-## AI Chat
+<p align="center">
+  <img src="docs/images/IMG_4095.PNG" width="260">
+</p>
 
 ![AI Chat](docs/images/IMG_4095.PNG)
 Copyright © 2026 AI Ledger
