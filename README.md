@@ -33,9 +33,6 @@ An AI-powered bookkeeping application that helps users record expenses using OCR
 - Family Account
 - Shared Ledger
 
-## Screenshots
-
-Coming soon...
 
 ## License
 ---
